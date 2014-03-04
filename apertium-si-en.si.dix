@@ -6,7 +6,7 @@
 	
 	
 	<sdefs>
-		<sdef n="prn"  c="Pronoun"/> ‍
+		<sdef n="prn"  c="Pronoun"/>
 		<sdef n="mf"  c="Masculine,Feminine"/> 
 		<sdef n="m" c="Maculine"/> 
 		<sdef n="f" c="Feminine"/> 
@@ -21,7 +21,6 @@
 		<sdef n="pro" c="Proclitic"/> 
 		<sdef n="n" 	c="Noun"/> 
 		<sdef n="num" 	c="Number"/> 
-		<sdef n="cat:pro" 	c="Pronoun"/> 
 		<sdef n="np" 	c="Propernoun"/> 
 		<sdef n="vblex" 	c="verb"/> 
 		<sdef n="pres" c="Present"/> 
