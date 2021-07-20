@@ -1,0 +1,10 @@
+{
+    "en-si": {
+        "input": "en-si-input.txt",
+        "mode": "en-si"
+    },
+    "si-en": {
+        "input": "si-en-input.txt",
+        "mode": "si-en"
+    }
+}

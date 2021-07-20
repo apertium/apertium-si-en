@@ -1,0 +1,10 @@
+[4hGapzuwMsUO#0] ^කළු<adj><sint>$
+[/4hGapzuwMsUO]
+[PocN96yLxeHO#0] ^ලස්සන<adj><sint><comp>$
+[/PocN96yLxeHO]
+[hxl-ur3dVGtg#0] ^විස්ස<num><sp>$
+[/hxl-ur3dVGtg]
+[jmKfK73SB8Js#0] ^prpers<prn><subj><p3><m><sg>$
+[/jmKfK73SB8Js]
+[kfOUBE1xJIrE#0] ^ලුහු කරන<vblex><sg><past><p1>$
+[/kfOUBE1xJIrE]
